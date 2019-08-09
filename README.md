@@ -1,5 +1,5 @@
 # Facebook-chat-client
-A program that will serve as a chat client, though which a user can, using a mobile device, connect, see all Facebook messages for his account, and reply in real time. In effect, a free-software alternative to Facebook messenger.
+A program that will serve as a chat client, though which a user can, using a mobile device (though so far it works on computers), connect, see all Facebook messages for his account, and reply in real time. In effect, a free-software alternative to Facebook messenger.
 
 ## Vision
 Suppose you have a Linux machine running and a mobile device. The tentative mission is to allow a user to do the following:
